@@ -1,11 +1,11 @@
+## Demo App
+https://netflix-clone-kiran.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-## Demo App
-https://netflix-clone-kiran.herokuapp.com/
-
 In the project directory, you can run:
 
 ### `npm start`
