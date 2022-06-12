@@ -24,7 +24,7 @@ function App() {
      <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} />  
     </div>
 
-    <h3>Made by CodeWithKiran</h3>
+    <h3 style={{color:"crimson"}}>Made by CodeWithKiran</h3>
    
    
    </>
